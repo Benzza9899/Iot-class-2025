@@ -12,7 +12,7 @@ Answer: test/qos/6510301017
 
 > Objective: Receive temperature data from every student.
 
-Answer: test/qos/6510301017/temperature
+Answer: test/qos/+/temperature
 
 
 ## Part 3: Subscribe to all messages under test/qos/
